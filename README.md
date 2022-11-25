@@ -2,7 +2,4 @@
 
 ## About me
 
-_I am a student at the university of Ghent,  
-I am an elektronics and ICT engeneering student._
-
-
+_I am a student at the university of Ghent, and I am studying engineering in elektronics and ICT._

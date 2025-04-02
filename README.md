@@ -2,4 +2,4 @@
 
 ## About me
 
-_I am a student at the university of Ghent_
+_I am a student at Ghent university_
